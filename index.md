@@ -1,10 +1,8 @@
-# DSC 180A Methodology Assignment 4
-
 **Name:** Samuel Eun  
 **Email:** saeun@ucsd.edu  
 
-**Section:** (Your section number)  
-**Mentor:** (Your mentor’s name)
+**Section:** B03 
+**Mentor:** Tauhidur Rahman
 
 ---
 
